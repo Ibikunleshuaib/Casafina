@@ -301,6 +301,9 @@ $('#steps1').click(function() {
               $('#explore1').click(function() {
             $('html, body').animate({scrollTop: $('#services').offset().top}, 1500);
         });
+             $('#contactButton2').click(function() {
+            $('html, body').animate({scrollTop: $('#contact').offset().top}, 1500);
+        }); 
              
 
          
